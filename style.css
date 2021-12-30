@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Licorice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+body{
+    background-image: url(back.png);
+}
+h1, h2, p {
+    text-align: center;
+  }
+.shop{
+    font-size: 100px;
+    font-family: 'Shizuru', cursive;
+    padding-bottom: 0px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.established {
+  font-style: italic;
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+header{
+padding-top: 10px;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+
+
+.flavour{
+    text-align: justify;
+    width: 75%;
+  }
+
+.rate{
+    text-align: right;
+    width: 25%;
+}
+.menu{
+    width: 80%;
+  background-color: rgb(241, 241, 223);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+h2 {
+    font-size: 30px;
+  }
+.deli{
+    font-family: 'Licorice', cursive;
+}
+/*foot*/
+footer{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: grey;
+}
